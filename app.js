@@ -22,7 +22,7 @@ console.log(`Назначение: ${addressLat}, ${addressLong}`);
 console.log(`Дистанция до объекта: ${distance.toFixed(2)}`);
 
 
-
+// Проверка для Pull Request
 
 
 
